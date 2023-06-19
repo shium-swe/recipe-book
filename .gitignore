@@ -4,10 +4,10 @@ client/.pnp
 client/.pnp.js
 
 # testing
-client//coverage
+client/coverage
 
 # production
-client//build
+client/build
 
 # misc
 client/.DS_Store
@@ -37,4 +37,7 @@ server/.settings
 server/.springBeans
 server/.sts4-cache
 server/.vscode/
+
+.DS_Store
+.gitignore
 
